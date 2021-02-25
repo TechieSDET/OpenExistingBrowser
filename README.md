@@ -1,6 +1,7 @@
 <h2>Run selenium script in existing browser</h2>
 <h4> 
   1. Launch browser Manaully.</br>
+  </br>
   2. Launch browser through automation script.
 </h4>
 
@@ -15,7 +16,7 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="any local folder"
 Google\Chrome --remote-debugging-port=9222 --user-data-dir="~/ChromeProfile"
 </pre>
 
-<h5>Type 1. Launch browser through automation script.</h5>
+<h5>Type 2. Launch browser through automation script.</h5>
 
 <pre>
 package ChromeOptions;
